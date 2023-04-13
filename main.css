@@ -34,7 +34,7 @@ themevarsp
     --dark-secondary: #050505;
     --dark-secondary-alt: #080808;
     --dark-bright: #0b0b0b;
-    --roundmoled-background: #142339;
+    --roundmoled-background: #0F0F12;
     --popout-activeborders: #1f1f1f;
 }
 
@@ -384,7 +384,7 @@ homesp
 
 .theme-dark .container-2cd8Mz
 {
-    border-radius: 20px;
+    border-radius: 5px;
     margin-top:10px;
     margin-bottom:10px;
     margin-right: 10px;
